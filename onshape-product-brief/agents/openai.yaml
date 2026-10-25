@@ -1,0 +1,4 @@
+interface:
+  display_name: "Onshape Product Brief"
+  short_description: "Design a product brief from Onshape CAD"
+  default_prompt: "Use $onshape-product-brief to create a polished product brief from this Onshape assembly."
